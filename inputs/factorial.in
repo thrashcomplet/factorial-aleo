@@ -1,0 +1,3 @@
+// The program input for factorial/src/main.leo
+[main]
+public number: u128 = 34u128;
